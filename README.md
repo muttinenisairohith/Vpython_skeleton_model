@@ -1,2 +1,2 @@
 # Vpython_skeleton_model
-craeting skeleton model using vpython
+creating skeleton model using vpython
